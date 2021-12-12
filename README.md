@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/PriyanshuSaxena2612/FrontEnd-Challenge-2)
+- Live Site URL: [Add live site URL here](https://priyanshusaxena2612.github.io/FrontEnd-Challenge-2/)
 
 ## My process
 
